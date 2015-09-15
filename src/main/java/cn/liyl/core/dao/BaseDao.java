@@ -101,7 +101,7 @@ public interface BaseDao<T> {
 	void updateDynamic(Object updateObj);
 	
 	/**
-	 *  动态更新
+	 *  动态统计
 	 *  
 	 *  @param queryObj
 	 */
